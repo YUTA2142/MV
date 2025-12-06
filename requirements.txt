@@ -1,2 +1,4 @@
 openai-whisper>=20231117
+pandas>=2.0.0
+streamlit>=1.34.0
 
